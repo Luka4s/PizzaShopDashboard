@@ -1,0 +1,1 @@
+Esse projeto foi desenvolvido no curso da RocketSeat, onde desenvolvemos um painel administrativo para um estabelecimento. Fazemos o consumo dos dados por meio de uma API desenvolvida em NodeJs utilizando Express e outras tecnologias
